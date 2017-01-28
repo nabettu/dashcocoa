@@ -6,7 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "dash-button": "^2.0.1",
-    "milkcocoa": "^0.6.0"
+    "slack-node": "^0.1.8"
   },
   "scripts": {
     "scan": "dash-button scan",
